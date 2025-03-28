@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2\banjo/Dingpot"
+	"$surfaceprop" "Metal_Box"
+	"$surfaceprop2" "MetalPanel"
+	"$halflambert" "1"
+}

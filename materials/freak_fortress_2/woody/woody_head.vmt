@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2\woody/woody_head"
+	"$bumpmap" "freak_fortress_2\woody/woody_head_normal"
+	"$phong" 1
+	"$phongexponent"			1
+	"$phongexponenttexture" "freak_fortress_2\woody/woody_Head_Spec"
+	"$phongboost"				3.0
+	"$phongfresnelranges"		"[0 0.5 1]"
+}
