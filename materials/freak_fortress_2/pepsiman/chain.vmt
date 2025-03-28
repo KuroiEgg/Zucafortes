@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2\pepsiman\Chain"
+	"$bumpmap" "freak_fortress_2\pepsiman\normal"
+	"$halflambert" 1
+	"$envmap" env_cubemap
+}
