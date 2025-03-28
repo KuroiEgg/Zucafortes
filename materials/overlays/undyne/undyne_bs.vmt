@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/undyne/undyne_bs"
+        "$bumpmap" "models/effects/flat_normal" 
+	"$translucent" 1
+	"$ignorez"     "1"
+	"$no_fullbright" "1"
+
+	"Proxies" 
+	{ 
+	} 
+}
