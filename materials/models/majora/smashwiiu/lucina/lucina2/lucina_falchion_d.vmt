@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Majora/SmashWiiU/Lucina/Lucina/lucina_falchion_d"
+	"$bumpmap" "models/Majora/SmashWiiU/Lucina/Lucina/lucina_falchion_n"
+
+	"$phongexponenttexture"	"models/Majora/SmashWiiU/Lucina/Lucina/albedotint"
+	"$phongexponent" "2.5"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[6 7 10]"
+
+	"$rimlight"				"1"
+	"$rimlightexponent"		"8"
+	"$rimlightboost"		"0.025"
+}
