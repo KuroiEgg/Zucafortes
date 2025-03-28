@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "freak_fortress_2/spiderman/weboverlay"
-	"$translucent" 1
-	"$ignorez"     "1"
-	"$no_fullbright" "1"	
-}
