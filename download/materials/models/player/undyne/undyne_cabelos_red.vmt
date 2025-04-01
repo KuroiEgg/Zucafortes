@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/undyne/Undyne_Cabelos_red"
+
+	"$basemapalphaphongmask"		"1"
+
+	"$phong" "1"
+	"$phongboost"	"1.5"
+	"$phongexponent" "2.5"
+	"$phongfresnelranges"	"[0.5 1 2.5]"
+
+	"$color2"		"[0.875 0.875 0.875]"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models/player/undyne/green"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"spy_invis"
+		{
+		}
+	}
+}

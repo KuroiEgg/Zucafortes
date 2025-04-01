@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/spiderman/spidersense2"
+	"$translucent" 1
+	"$ignorez"     "1"
+	"$no_fullbright" "1"	
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "8"
+      }
+   }
+}
