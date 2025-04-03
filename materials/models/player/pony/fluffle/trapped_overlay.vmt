@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "models\player\pony\fluffle\trapped_overlay"
-	"$translucent" 0
-	"$ignorez"     "1"
-	"$no_fullbright" "1"	
-}
