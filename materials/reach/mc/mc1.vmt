@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "reach/mc/mc1"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "10"
+      }
+   }
+}
